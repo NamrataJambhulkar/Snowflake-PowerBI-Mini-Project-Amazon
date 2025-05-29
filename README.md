@@ -41,5 +41,5 @@ This project demonstrates my skills in **Snowflake SQL** by creating a database,
 
 ## Author
 
-Namrata | Aspiring Data Engineer
+Namrata Jambhulkar
 
